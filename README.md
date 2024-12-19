@@ -10,13 +10,10 @@ This section is where your daily note will be created using the Obsidian Templat
 ## 2. Projects
 Store projects you are working on here. Use #activeproject when making a project note(it will automatically be placed from the template) and placed it in 2_Projects/Active and change it to #finishedproject when you move it to the Complete directory.
 
-## 3. Jobs
-This folder is used for job hunting. There is the Descriptions Directory where you can store descriptions of jobs you want to compare your skills later and then the Job Application Tracker note where you can keep track of jobs you have applied for and heard back from.
-
-## 4. LeetCode
+## 3. LeetCode
 This directory is used to store your work on LeetCode. The directory note tracks problems solved and time spent from your daily notes in 1_Learning Logs.
 
-## 5. Self-Tests
+## 4. Self-Tests
 This directory note generates a list of subjects you have worked on in the past week. Create notes in this directory for a weekly test on the subjects you have worked on.
 
 ## Area Directories
@@ -26,6 +23,3 @@ If the subject is broad(like Python), create another note from the Roadmap Templ
 
 ## Zarchives
 This directory contains the templates and any media you may attach such as images.
-
-## ZThings That Help
-This is a misc. directory for storing random tips, hints, notes, and meta-data that helps you on your journey.
