@@ -4,5 +4,5 @@
 - [ ] [Linux Commands](https://labex.io/courses/linux-basic-commands-practice-online)
 # Learning Progress
 ## Linux
-- [ ] [[Linux Fundamentals]]
-- [ ] [[Linux Commands]]
+- [ ] Linux Fundamentals
+- [ ] Linux Commands
