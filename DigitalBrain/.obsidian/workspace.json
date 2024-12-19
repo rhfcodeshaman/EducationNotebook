@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4_Leetcode/4_Leetcode.md",
+                "file": "1_Learning Logs/1_Learning Logs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4_Leetcode"
+              "title": "1_Learning Logs"
             }
           }
         ]
@@ -165,43 +165,42 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1f3159763ac4d54f",
+  "active": "771a0d082c0543ff",
   "lastOpenFiles": [
+    "Zsandbox/Python/1_basicsyntax.py",
     "ZThings That Help/Writing Code Well.md",
     "ZThings That Help/How to Learn Anything.md",
-    "DevOps/15_Container Orchestration/1_Kubernetes/1_Kubernetes.md",
-    "DevOps/5_Container Basics/1_Docker/1_Docker.md",
-    "DevOps/5_Container Basics/5_Container Basics.md",
-    "DevOps/2_OS/1_Linux/1_Linux.md",
-    "DevOps/2_OS/1_Linux/Linux Commands.md",
-    "DevOps/2_OS/2_OS.md",
-    "DevOps/5_Container Basics/1_Docker/Container 101.md",
     "DevOps/5_Container Basics/1_Docker/Using Docker.md",
-    "DevOps/DevOps.md",
-    "AI & Data Science/AI & Data Science.md",
-    "5_Self-Tests/5_Self-Tests.md",
-    "4_Leetcode/4_Leetcode.md",
-    "1_Learning Logs/1_Learning Logs.md",
+    "DevOps/5_Container Basics/1_Docker/Container 101.md",
     "3_Jobs/Job Application Tracker.md",
     "3_Jobs/Descriptions/CrunchyRoll.md",
+    "3_Jobs/Descriptions/CloudStrike.md",
+    "2_Projects/Active/Beginner Python Project.md",
+    "2_Projects/Active/Beginner Docker Project.md",
     "2_Projects/Active/Beginner Devops Project 1.md",
     "1_Learning Logs/2024-12-19.md",
-    "DevOps/1_Programming/1_Python/1_Python.md",
-    "DevOps/1_Programming/1_Programming.md",
-    "2_Projects/2_Projects.md",
-    "DevOps/1_Programming/1_Python/Algorithms.md",
-    "DevOps/1_Programming/1_Python/Data Structures.md",
-    "5_Self-Tests",
     "1_Learning Logs/2024-12-18.md",
     "1_Learning Logs/2024-12-17.md",
+    "1_Learning Logs/2024-12-16.md",
+    "1_Learning Logs/1_Learning Logs.md",
+    "2_Projects/2_Projects.md",
+    "DevOps/1_Programming/1_Python/Object Oriented Programming.md",
+    "DevOps/DevOps.md",
+    "DevOps/1_Programming/1_Programming.md",
+    "DevOps/1_Programming/1_Python/1_Python.md",
+    "DevOps/1_Programming/1_Python/Data Structures.md",
+    "DevOps/1_Programming/1_Python/Algorithms.md",
+    "3_Leetcode/3_Leetcode.md",
+    "Zsandbox/Python",
+    "Zsandbox",
+    "DevOps/15_Container Orchestration/1_Kubernetes/1_Kubernetes.md",
+    "DevOps/5_Container Basics/1_Docker/1_Docker.md",
+    "4_Self-Tests",
     "2_Projects/Complete",
     "2_Projects/Active",
     "ZThings That Help",
-    "4_Leetcode",
+    "3_Leetcode",
     "3_Jobs/Descriptions",
-    "3_Jobs",
-    "2_Projects",
-    "1_Learning Logs",
-    "Zsandbox/Python/1_basicsyntax.py"
+    "3_Jobs"
   ]
 }
