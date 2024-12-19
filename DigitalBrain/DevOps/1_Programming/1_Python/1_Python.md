@@ -5,7 +5,6 @@
 - [ ] [Beginner Project](https://roadmap.sh/projects/github-user-activity) - [[Beginner Python Project]]
 - [ ] [Intermediate Project](https://roadmap.sh/projects/ecommerce-api)
 - [ ] [Advanced Project](https://roadmap.sh/projects/scalable-ecommerce-platform)
-- [ ] Blades in the Dark Advancement Tracker
 ## The Basics
 - [x] [[Basic Syntax]]
 - [x] [[Basic Syntax#Variables and Collections|Variables and Data Types]]
