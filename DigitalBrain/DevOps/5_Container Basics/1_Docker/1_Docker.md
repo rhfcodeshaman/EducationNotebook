@@ -1,7 +1,7 @@
 #roadmap 
 # Docker Roadmap
 [Roadmap](https://roadmap.sh/docker)
-- [ ] Beginner Project - [[Beginner Docker Project]]
+- [ ] Beginner Project
 - [ ] Intermediate Project
 - [ ] Advanced Project
 ## Introduction
