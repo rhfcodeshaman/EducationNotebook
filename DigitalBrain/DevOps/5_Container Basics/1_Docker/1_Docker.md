@@ -5,20 +5,20 @@
 - [ ] Intermediate Project
 - [ ] Advanced Project
 ## Introduction
-- [x] [[Container 101]]
+- [ ] Container 101
 ## Underlying Technologies
-- [x] Namespaces
-- [x] cgroups
-- [x] Union Filesystems
+- [ ] Namespaces
+- [ ] cgroups
+- [ ] Union Filesystems
 ## Installation & Setup
-- [x] Docker Desktop
-- [x] Docker Engine
+- [ ] Docker Desktop
+- [ ] Docker Engine
 ## Basics
-- [x] Docker 101
+- [ ] Docker 101
 ## Data Persistence
-- [x] Ephemeral container filesystem
-- [x] Volume Mounts
-- [x] Bind Mounts
+- [ ] Ephemeral container filesystem
+- [ ] Volume Mounts
+- [ ] Bind Mounts
 ## 3rd Party Images
 - [ ] Databases
 - [ ] Interactive Test Environments
