@@ -6,25 +6,25 @@
 - [ ] [Intermediate Project](https://roadmap.sh/projects/ecommerce-api)
 - [ ] [Advanced Project](https://roadmap.sh/projects/scalable-ecommerce-platform)
 ## The Basics
-- [x] [[Basic Syntax]]
-- [x] [[Basic Syntax#Variables and Collections|Variables and Data Types]]
-	- [x] Lists
-	- [x] Dictionaries
-	- [x] Tuples
-	- [x] Sets
-- [x] [[Basic Syntax#Control Flow and Iterables|Conditionals]]
-- [x] [[Basic Syntax#Control Flow and Iterables|Loops]]
-- [x] [[Basic Syntax#Control Flow and Iterables|Exceptions]]
-- [x] [[Basic Syntax#Functions|Functions & Builtin Functions]]
-- [x] [[Basic Syntax#Type Casting|Type Casting]]
+- [ ] Basic Syntax
+- [ ] Variables and Data Types
+	- [ ] Lists
+	- [ ] Dictionaries
+	- [ ] Tuples
+	- [ ] Sets
+- [ ] Conditionals
+- [ ] Loops
+- [ ] Exceptions
+- [ ] Functions & Builtin Functions
+- [ ] Type Casting
 ## Data Structures & Algorithms
-- [x] [[Data Structures]]
-- [ ] [[Algorithms]]
-- [x] [[Modules]]
-- [x] [[Lambdas]]
-- [x] [[Decorators]]
-- [x] [[Iterators]]
-- [x] [[Regular Expressions]]
+- [ ] Data Structures
+- [ ] Algorithms
+- [ ] Modules
+- [ ] Lambdas
+- [ ] Decorators
+- [ ] Iterators
+- [ ] Regular Expressions
 ## Object Oriented Programming
 - [ ] Classes
 - [ ] Inheritance
