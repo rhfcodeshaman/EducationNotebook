@@ -1,0 +1,19 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "time_studied": "number",
+    "estimated_time": "number",
+    "tracked_time": "number",
+    "start_date": "date",
+    "completion_date": "date",
+    "todays_subject": "multitext",
+    "sub_area": "multitext",
+    "project_subject": "multitext",
+    "hours_logged": "number",
+    "leetcode_problems": "number",
+    "leetcode_hours": "number",
+    "motivation": "number"
+  }
+}

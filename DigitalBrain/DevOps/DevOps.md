@@ -1,0 +1,32 @@
+#roadmap 
+# Roadmap
+- [ ] [Roadmap](https://roadmap.sh/devops)
+- [ ] [Python Automation Mini-Degree](https://academy.zenva.com/course/python-automation-academy/)
+- [ ] [Beginner Project 1](https://roadmap.sh/projects/github-actions-deployment-workflow) - [[Beginner Devops Project 1]]
+- [ ] [Beginner Project 2](https://roadmap.sh/projects/ec2-instance)
+- [ ] [Intermediate Project 1](https://roadmap.sh/projects/configuration-management)
+- [ ] [Intermediate Project 2](https://roadmap.sh/projects/iac-digitalocean)
+- [ ] [Intermediate Project 3](https://roadmap.sh/projects/dockerized-service-deployment)
+- [ ] [Advanced Project 1](https://roadmap.sh/projects/blue-green-deployment)
+- [ ] [Advanced Project 2](https://roadmap.sh/projects/multiservice-docker)
+# Learning Progress
+- [ ] [[1_Programming]]
+- [ ] OS
+- [ ] Terminal
+- [ ] Version Control
+- [ ] [[5_Container Basics]]
+- [ ] Networking
+- [ ] Cloud Basics
+- [ ] Serverless
+- [ ] Provisioning
+- [ ] Config Management
+- [ ] CICD Tools
+- [ ] Secret Management
+- [ ] Infrastructure Monitoring
+- [ ] Logs Management
+- [ ] Container Orchestration
+- [ ] App Monitoring
+- [ ] Artifact Management
+- [ ] GitOps
+- [ ] Service Mesh
+- [ ] Cloud Design Patterns
